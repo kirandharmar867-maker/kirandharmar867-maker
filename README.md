@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [Open source***](Open source***)
 
-- ⚡ Fun fact **I ignored degree**
+- ⚡ The fact **Skills > degree**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
