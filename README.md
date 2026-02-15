@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kirandharmar867-maker/kirandharmar867-maker](https://github.com/kirandharmar867-maker/kirandharmar867-maker)
 
-- 💬 Ask me about **GSOC 2026, Remote Jobs**
+- 💬 Ask me about **GSOC 2026, Remote Jobs, Data Science**
 
 - 📫 How to reach me **kirandharmar876@gmail.com**
 
-- 📄 Know about my experiences [Open source***](Open source***)
+- 📄 Know about my experiences [Open source Contributions*](ML And DL:-Real World Projects)
 
 - ⚡ The fact **: Skills > degree**
 
