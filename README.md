@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kirandharmar876@gmail.com**
 
-- 📄 Know about my experiences [Open source Contributions*](ML And DL:-Real World Projects)
+- 📄 Know about my experiences [Open source Contributions(Totle 12 meaningful PRs murged)*](ML And DL:-Real World Projects)
 
 - ⚡ The fact **: Skills > degree**
 
