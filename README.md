@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiran Dharmar</h1>
-<h3 align="center">Data science & Machine Learning Student, Goal(GSOC_2026)</h3>
+<h3 align="center">Data science & Machine Learning Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiran&label=Profile%20views&color=0e75b6&style=flat" alt="kiran" /> </p>
 
